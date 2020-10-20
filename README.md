@@ -1,6 +1,17 @@
 # manual-regex
 for me
 
+# Code
+```
+$ : 
+. : any
+[ ] : 
+[-] : 시리즈
+[^ ] : not
+(on|use|rida) : 
+```
+
+# CC
 #### Site
 http://zvon.org/
 
